@@ -1,0 +1,9 @@
+{
+    "alfredworkflow": {
+        "arg": "{query}",
+        "config": {},
+        "variables": {
+            "paragraphs": "{query}"
+        }
+    }
+}

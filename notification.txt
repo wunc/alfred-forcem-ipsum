@@ -1,0 +1,1 @@
+{var:paragraphs} random Star Wars episode {var:episode} paragraphs copied to clipboard!
